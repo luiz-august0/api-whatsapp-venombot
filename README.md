@@ -1,2 +1,2 @@
 # api-whatsapp-venombot
-API para envio de mensagens no whatsapp
+API desenvolvida em node com venom-bot para envio de mensagens no whatsapp
